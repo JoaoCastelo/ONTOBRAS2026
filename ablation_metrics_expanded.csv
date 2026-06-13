@@ -1,0 +1,85 @@
+experiment_name,ablation_model,metric,value
+expanded,lexical_only,Precision@1,0.58
+expanded,lexical_only,Precision@5,0.94
+expanded,lexical_only,Precision@10,0.94
+expanded,lexical_only,MRR,0.711667
+expanded,lexical_only,Coverage,1.0
+expanded,lexical_only,Evaluated references,50
+expanded,lexical_only,Missing predictions,0
+expanded,structural_only,Precision@1,0.96
+expanded,structural_only,Precision@5,0.98
+expanded,structural_only,Precision@10,0.98
+expanded,structural_only,MRR,0.966667
+expanded,structural_only,Coverage,1.0
+expanded,structural_only,Evaluated references,50
+expanded,structural_only,Missing predictions,0
+expanded,statistical_only,Precision@1,0.58
+expanded,statistical_only,Precision@5,0.94
+expanded,statistical_only,Precision@10,0.98
+expanded,statistical_only,MRR,0.736889
+expanded,statistical_only,Coverage,1.0
+expanded,statistical_only,Evaluated references,50
+expanded,statistical_only,Missing predictions,0
+expanded,multisource_only,Precision@1,0.56
+expanded,multisource_only,Precision@5,0.74
+expanded,multisource_only,Precision@10,0.86
+expanded,multisource_only,MRR,0.643152
+expanded,multisource_only,Coverage,1.0
+expanded,multisource_only,Evaluated references,50
+expanded,multisource_only,Missing predictions,0
+expanded,type_policy_only,Precision@1,0.96
+expanded,type_policy_only,Precision@5,0.98
+expanded,type_policy_only,Precision@10,0.98
+expanded,type_policy_only,MRR,0.97
+expanded,type_policy_only,Coverage,1.0
+expanded,type_policy_only,Evaluated references,50
+expanded,type_policy_only,Missing predictions,0
+expanded,lexical_structural,Precision@1,0.66
+expanded,lexical_structural,Precision@5,0.96
+expanded,lexical_structural,Precision@10,0.98
+expanded,lexical_structural,MRR,0.797222
+expanded,lexical_structural,Coverage,1.0
+expanded,lexical_structural,Evaluated references,50
+expanded,lexical_structural,Missing predictions,0
+expanded,lexical_type_policy,Precision@1,0.98
+expanded,lexical_type_policy,Precision@5,0.98
+expanded,lexical_type_policy,Precision@10,0.98
+expanded,lexical_type_policy,MRR,0.98
+expanded,lexical_type_policy,Coverage,1.0
+expanded,lexical_type_policy,Evaluated references,50
+expanded,lexical_type_policy,Missing predictions,0
+expanded,structural_type_policy,Precision@1,0.96
+expanded,structural_type_policy,Precision@5,0.98
+expanded,structural_type_policy,Precision@10,0.98
+expanded,structural_type_policy,MRR,0.966667
+expanded,structural_type_policy,Coverage,1.0
+expanded,structural_type_policy,Evaluated references,50
+expanded,structural_type_policy,Missing predictions,0
+expanded,lexical_structural_type_policy,Precision@1,0.98
+expanded,lexical_structural_type_policy,Precision@5,0.98
+expanded,lexical_structural_type_policy,Precision@10,0.98
+expanded,lexical_structural_type_policy,MRR,0.98
+expanded,lexical_structural_type_policy,Coverage,1.0
+expanded,lexical_structural_type_policy,Evaluated references,50
+expanded,lexical_structural_type_policy,Missing predictions,0
+expanded,lexical_structural_statistical,Precision@1,0.66
+expanded,lexical_structural_statistical,Precision@5,0.96
+expanded,lexical_structural_statistical,Precision@10,0.98
+expanded,lexical_structural_statistical,MRR,0.796222
+expanded,lexical_structural_statistical,Coverage,1.0
+expanded,lexical_structural_statistical,Evaluated references,50
+expanded,lexical_structural_statistical,Missing predictions,0
+expanded,full_model,Precision@1,0.58
+expanded,full_model,Precision@5,0.94
+expanded,full_model,Precision@10,0.94
+expanded,full_model,MRR,0.712762
+expanded,full_model,Coverage,1.0
+expanded,full_model,Evaluated references,50
+expanded,full_model,Missing predictions,0
+expanded,type_aware_full_model,Precision@1,0.96
+expanded,type_aware_full_model,Precision@5,0.98
+expanded,type_aware_full_model,Precision@10,0.98
+expanded,type_aware_full_model,MRR,0.97
+expanded,type_aware_full_model,Coverage,1.0
+expanded,type_aware_full_model,Evaluated references,50
+expanded,type_aware_full_model,Missing predictions,0

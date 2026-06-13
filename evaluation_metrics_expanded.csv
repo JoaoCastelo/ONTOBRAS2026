@@ -1,0 +1,8 @@
+experiment_name,metric,value
+expanded,Precision@1,0.96
+expanded,Precision@5,0.98
+expanded,Precision@10,0.98
+expanded,MRR,0.97
+expanded,Coverage,1.0
+expanded,Evaluated references,50
+expanded,Missing predictions,0
